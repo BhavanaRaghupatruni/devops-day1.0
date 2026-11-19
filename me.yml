@@ -1,0 +1,8 @@
+name: Bhavana
+college: "SWEC"
+city: Hyderabad
+learning:
+  - git
+  - github
+  - ci-cd
+goal: "Become a skilled DevOps engineer"
